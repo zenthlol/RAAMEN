@@ -1,0 +1,2 @@
+﻿INSERT INTO Meat VALUES
+(1 , "Beef")
